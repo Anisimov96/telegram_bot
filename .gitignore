@@ -1,0 +1,5 @@
+settings.py
+User.db
+.vscode
+__pycache__
+env
